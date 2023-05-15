@@ -1,0 +1,139 @@
+body{
+    font-family: 'Quicksand', sans-serif; 
+  background-color: #f8f9fa;
+  
+}
+.leftside{
+    position: relative;
+    margin-right: 0;
+   
+
+}
+.rightside{
+    display: flex;
+    flex-direction: row;
+    margin-left: 0;
+    background-image: url(3.jpg);
+    width: 600px;
+    height: 800px;
+}
+a{
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.container{
+    display: flex;
+}
+ .center{
+    display: flex;
+flex-direction: row;}
+
+.icon{
+    width: 15px;
+    height: 17px;
+   }
+.designs{
+   
+    height: 800px;
+    margin-left: 30%;
+    font-size: xx-large;
+    margin-top: 0%;
+    background-color: #f8f9fa;
+    display: flex;
+    flex-direction: row;
+   }
+
+
+img{
+    
+    margin-top: 80%;
+    background-color: #e9ecef;
+    width: 450px;
+    height: 500px;   
+}
+.chairs{
+    display: flex;
+    margin-left: 5%;
+}
+.fonk{
+    font-size: small;
+    position: relative;
+    bottom: 52px;
+    left: 10px;
+    padding-left: 10px;
+}
+.couch{
+    font-size: small;
+    position: relative;
+    bottom: 52px;
+    left: 10px;  
+    padding-left: 10px;
+}
+.bed{
+    font-size: small;
+    position: relative;
+    bottom: 52px;
+    left: 10px;
+    padding-left: 10px;
+}
+.table{
+    font-size: small;
+    position: relative;
+    bottom: 52px;
+    left: 10px;
+    padding-left: 10px;
+}
+.sofa{
+    font-size: small;
+    position: relative;
+    bottom: 52px;
+    left: 10px;
+    padding-left: 10px;
+}
+.thirdpart{
+    display: flex;
+}
+h3{
+    font-size: x-large;
+    margin-left: 30%;
+}
+.meet{
+    font-size: large;
+    font-weight: bold;
+    position: relative;
+    bottom: 52px;
+    left: 10px;
+  
+
+}
+
+.chairr{
+    font-size: large;
+    font-weight: bold;
+    position: relative;
+    bottom: 52px;
+    left: 10px;
+}
+.emptyspace{
+    display: flex;
+    flex-direction: column;
+    width: 00px;
+background-color: #e9ecef;    
+}
+.myoffer{
+    color: antiquewhite;
+    background-color: black;
+ height: 300px;
+
+}
+.last{
+    
+    color: antiquewhite;
+    background-color: black;
+ height: 300px;
+}
+.image1{
+    width: 2000px;
+    height: 2000px;
+}
